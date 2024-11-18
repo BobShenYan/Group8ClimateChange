@@ -13,7 +13,7 @@ The Twitter data was provided from two datasets:
 
 Various methods of visualization were employed to evaluate trends, including line graphs, 2D histograms, N-grams, and geospatial plots.
 
-## Results/Discussion
+## Results and Discussion
 
 ### Temperature Analysis
 The 13 year dataset offered crucial insights into the temporal progression of stance and sentiment. The average temperature anomalies and sentiment trends demonstrated only weak correlations between the two factors. However, it did not offer an explanation based on the 2D histograms. Instead, it allowed for a deeper understanding of the emotional variability of each stance in relation to current literature (Gounaridis and Newell 2024; Painter and Ashe 2012). It was evident that various confounding variables were associated with the impact of average temperature anomalies on sentiment, prompting further analysis. 
