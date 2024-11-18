@@ -1,9 +1,12 @@
 # Understanding Public Perception of Climate Change Through Changes of Stance and Sentiment on Twitter
+*iSci 3A12 Climate Change, Fall 2024*
+
+**Group 8: Colin Fife,Ethan Schmidt, Om Thakar, Bob-Shen Yan**  
 
 ## Introduction
-The goal of this study is to consider the progression of climate change stance and sentiment on Twitter from 2015 to 2019 in the United States (USA). By assessing its progression, it allows for further investigations into the impact on public perception and policies. Twitter represents a platform that is designed to facilitate rapid information engagement. This provides valuable insights into the underlying motivations behind pro- and anti-climate perspectives expressed by the general public and politicians. Additionally, it serves as a platform to evaluate the impact and effectiveness of climate change policies and reforms.
+The goal of this study is to consider the progression of climate change stance and sentiment on Twitter from 2015 to 2018 in the United States (USA). By assessing its progression, it allows for further investigations into the impact on public perception and policies. Twitter represents a platform that is designed to facilitate rapid information engagement. This provides valuable insights into the underlying motivations behind pro- and anti-climate perspectives expressed by the general public and politicians. Additionally, it serves as a platform to evaluate the impact and effectiveness of climate change policies and reforms.
 
-## Method
+## Methodology
 The Twitter data was provided from two datasets:
 1. **First Dataset**: A 13-year dataset including all tweet attributes such as `id`, `created_at`, longitude, and latitude (Effrosynidis et al. 2022). This dataset included 'seven dimensions' of information, such as stance, sentiment, and temperature, but did not provide full tweet messages.
 2. **Second Dataset**: Covered 2015-2018, focused solely on stance classification and full-length tweet messages but did not include timestamps (Qian 2019).
@@ -30,7 +33,7 @@ The second dataset provided a corpus of tweet messages which were depicted using
   - **Trump’s withdrawal from the Paris Agreement**: Demonstrated an increase in climate denier stances, particularly in Republican states
 
 ## Conclusion
-Stance and sentiment trends on Twitter across the 4 year period demonstrated that believer stances experienced an overall increase, while denier stances remained at a consistent level. Temperature anomalies were investigated and revealed that extreme deviations may amplify climate exchange belief. Influence from political figures also shapes public perception, increasing climate discourse on Twitter. Various factors, including political affiliation, affect the susceptibility of different demographics to climate change information. Efforts are also underway to develop multilingual, global datasets to better represent underrepresented regions and languages in climate discourse. 
+Stance and sentiment trends on Twitter from 2015 to 2018 demonstrated that believer stances experienced an overall increase, while denier stances remained at a consistent level. Temperature anomalies were investigated and revealed that extreme deviations may amplify climate exchange belief. Influence from political figures also shapes public perception, increasing climate discourse on Twitter. Various factors, including political affiliation, affect the susceptibility of different demographics to climate change information. Efforts are also underway to develop multilingual, global datasets to better represent underrepresented regions and languages in climate discourse. 
 
 ## Works Cited
 1. Effrosynidis, Dimitrios, Alexandros I. Karasakalidis, Georgios Sylaios, and Avi Arampatzis. 2022. ‘The Climate Change Twitter Dataset’. *Expert Systems with Applications* 204 (October): 117541. https://doi.org/10.1016/j.eswa.2022.117541.
