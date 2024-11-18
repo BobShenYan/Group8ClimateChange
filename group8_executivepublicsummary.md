@@ -8,7 +8,7 @@ The goal of this study is to consider the progression of climate change stance a
 
 ## Methodology
 The Twitter data was provided from two datasets:
-1. **Primary Dataset**: A 13-year dataset including all tweet attributes such as `id`, `created_at`, `lng` (longitude), and `lat` (latitude) (Effrosynidis et al. 2022). This dataset included 'seven dimensions' of information, such as `stance`, `sentiment`, and `temperature_avg` (average temperature anomalies), but did not provide full tweet messages.
+1. **Primary Dataset**: A 13-year dataset (2006-2019) including all tweet attributes such as `id`, `created_at`, `lng` (longitude), and `lat` (latitude) (Effrosynidis et al. 2022). This dataset included 'seven dimensions' of information, such as `stance`, `sentiment`, and `temperature_avg` (average temperature anomalies), but did not provide full tweet messages.
 2. **Secondary Dataset**: Covered 2015-2018, focused solely on stance classification and full-length tweet messages but did not include timestamps (Qian 2019).
 
 Various methods of visualization were employed to evaluate trends, including line graphs, 2D histograms, N-grams, and geospatial plots.
@@ -16,7 +16,7 @@ Various methods of visualization were employed to evaluate trends, including lin
 ## Results/Discussion
 
 ### Temperature Analysis
-The 13 year dataset (2006-2019) offered crucial insights into the temporal and geospatial progression of stance and sentiment. The average temperature deviation and sentiment trends demonstrated only weak correlations between the two factors. However, it did not offer an explanation based on the heatmaps. Instead, it allowed for a deeper understanding of the emotional variability associated with each stance in relation to current literature (Gounaridis and Newell 2024; Painter and Ashe 2012). It was evident that various confounding variables were associated with the impact of temperature deviations on sentiment prompting further analysis. 
+The 13 year dataset offered crucial insights into the temporal and geospatial progression of stance and sentiment. The average temperature deviation and sentiment trends demonstrated only weak correlations between the two factors. However, it did not offer an explanation based on the heatmaps. Instead, it allowed for a deeper understanding of the emotional variability associated with each stance in relation to current literature (Gounaridis and Newell 2024; Painter and Ashe 2012). It was evident that various confounding variables were associated with the impact of temperature deviations on sentiment prompting further analysis. 
 
 ### Geospatial Analysis
 The second dataset provided a corpus of tweet messages which were depicted using bi- and tri- grams (2 and 3 consecutive words) highlighting the major climate event of the Paris Agreement, as well as political figures Bernie Sanders and Donald Trump who were found within top occurrences of the N-grams. The plots were created to temporally and geospatially demonstrate the impact of the following events within the USA:
