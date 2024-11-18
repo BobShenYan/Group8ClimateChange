@@ -21,8 +21,8 @@ The 13 year dataset (2006-2019) offered crucial insights into the temporal and g
 ### Geospatial Analysis
 The second dataset provided a corpus of tweet messages which were depicted using bi- and tri- grams (2 and 3 consecutive words) highlighting the major climate event of the Paris Agreement, as well as political figures Bernie Sanders and Donald Trump who were found within top occurrences of the N-grams. The plots were created to temporally and geospatially demonstrate the impact of the following events within the USA:
 
-  - **(A) Bernie Sander's campaign press release on December 12th, 2015 regarding the Paris Agreement**
-  - **(B) Donald Trump's official statement of withdrawl from the Paris Agreement on June 1st, 2017**
+  - **(A) Bernie Sanders' campaign press release on December 12th, 2015 regarding the Paris Agreement**
+  - **(B) Donald Trump's official statement of withdrawal from the Paris Agreement on June 1st, 2017**
 
     <img src="BernieSanders.png" alt="Bernie Sanders geosptial map 3 weeks" width="900" style="border: 1px solid darkgrey">
     <img src="DonaldTrump.png" alt="Donald Trump geosptial map 3 weeks" width="900" style="border: 1px solid darkgrey">
