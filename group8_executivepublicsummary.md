@@ -1,7 +1,7 @@
 # Understanding Public Perception of Climate Change Through Changes of Stance and Sentiment on Twitter
 *iSci 3A12 Climate Change, Fall 2024*
 
-**Group 8: Colin Fife,Ethan Schmidt, Om Thakar, Bob-Shen Yan**  
+**Group 8: Colin Fife, Ethan Schmidt, Om Thakar, Bob-Shen Yan**  
 
 ## Introduction
 The goal of this study is to consider the progression of climate change stance and sentiment on Twitter from 2015 to 2018 in the United States (USA). By assessing its progression, it allows for further investigations into the impact on public perception and policies. Twitter represents a platform that is designed to facilitate rapid information engagement. This provides valuable insights into the underlying motivations behind pro- and anti-climate perspectives expressed by the general public and politicians. Additionally, it serves as a platform to evaluate the impact and effectiveness of climate change policies and reforms.
