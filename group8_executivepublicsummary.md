@@ -27,7 +27,7 @@ The second dataset provided a corpus of tweet messages which were depicted using
     <img src="BernieSanders.png" alt="Bernie Sanders geosptial map 3 weeks" width="900" style="border: 1px solid darkgrey">
     <img src="DonaldTrump.png" alt="Donald Trump geosptial map 3 weeks" width="900" style="border: 1px solid darkgrey">
     
-    *Figure 1: Geospatial heatmaps of climate stances in the USA following political events. (A) Heatmaps represent the believer stance proportion across states before, one week after, and two weeks after Bernie Sanders’s press conference on climate (Dec 5–Dec 28, 2015). (B) Heatmaps represent the denier stance proportion across       states before, one week after, and two weeks after Donald Trump’s withdrawal from the Paris Agreement (May 25–June 17, 2017); (made in Python).*
+    *Figure 1: Geospatial plots of climate stances in the USA following political events. (A) Heatmaps represent the believer stance proportion across states before, one week after, and two weeks after Bernie Sanders’s press conference on climate (Dec 5–Dec 28, 2015). (B) Heatmaps represent the denier stance proportion across       states before, one week after, and two weeks after Donald Trump’s withdrawal from the Paris Agreement (May 25–June 17, 2017); (made in Python).*
 
   - **Sanders’ statements on the Paris Agreement**: Believer stances increased, especially in Vermont and other Democratic-leaning areas
   - **Trump’s withdrawal from the Paris Agreement**: Demonstrated an increase in climate denier stances, particularly in Republican states
