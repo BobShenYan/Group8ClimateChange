@@ -8,8 +8,8 @@ The goal of this study is to consider the progression of climate change stance a
 
 ## Methodology
 The Twitter data was provided from two datasets:
-1. **First Dataset**: A 13-year dataset including all tweet attributes such as `id`, `created_at`, `lng` (longitude), and `lat` (latitude) (Effrosynidis et al. 2022). This dataset included 'seven dimensions' of information, such as `stance`, `sentiment`, and `temperature_avg` (average temperature anomalies), but did not provide full tweet messages.
-2. **Second Dataset**: Covered 2015-2018, focused solely on stance classification and full-length tweet messages but did not include timestamps (Qian 2019).
+1. **Primary Dataset**: A 13-year dataset including all tweet attributes such as `id`, `created_at`, `lng` (longitude), and `lat` (latitude) (Effrosynidis et al. 2022). This dataset included 'seven dimensions' of information, such as `stance`, `sentiment`, and `temperature_avg` (average temperature anomalies), but did not provide full tweet messages.
+2. **Secondary Dataset**: Covered 2015-2018, focused solely on stance classification and full-length tweet messages but did not include timestamps (Qian 2019).
 
 Various methods of visualization were employed to evaluate trends, including line graphs, 2D histograms, N-grams, and geospatial plots.
 
