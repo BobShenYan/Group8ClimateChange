@@ -16,22 +16,18 @@ Various methods of visualization were employed to evaluate trends, including lin
 The 13 year dataset (2006-2019) offered crucial insights into the temporal and geospatial progression of stance and sentiment. The average temperature deviation and sentiment trends demonstrated only weak correlations between the two factors. However, it did not offer an explanation based on the heatmaps. Instead, it allowed for a deeper understanding of the emotional variability associated with each stance in relation to current literature (Gounaridis and Newell 2024; Painter and Ashe 2012). It was evident that various confounding variables were associated with the impact of temperature deviations on sentiment prompting further analysis. 
 
 ### Geospatial Analysis
-The second dataset provided a corpus of tweet messages which were depicted using bi- and tri- grams highlighting the major topic of the Paris Agreement, and political figures Bernie Sanders and Donald Trump who were found within top occurrences of the N-grams. Geospatial plots were created and targeted Trump’s withdrawal from the Paris Agreement, and Sander’s statements regarding the agreement as events of interest. The plots temporally and geospatially demonstrated the impact of the following events within the USA:
+The second dataset provided a corpus of tweet messages which were depicted using bi- and tri- grams highlighting the major climate event of the Paris Agreement, as well as political figures Bernie Sanders and Donald Trump who were found within top occurrences of the N-grams. The plots were created to temporally and geospatially demonstrate the impact of the following events within the USA:
 
-  - (A) **Sanders’s statements on the Paris Agreement**: Believer stances increased, especially in Vermont and other Democratic-leaning areas
-  - (B) **Trump’s withdrawal from the Paris Agreement**: Demonstrated an increase in climate denier stances, particularly in Republican states
+  - **(A) Bernie Sander's campaign press release on December 12th, 2015 regarding the Paris Agreement**
+  - **(B) Donald Trump's official statement of withdrawl from the Paris Agreement on June 1st, 2017**
 
     <img src="Executive Public Summary (4).png" alt="Time series of station and global annual temperature anomalies" width="900" style="border: 1px solid darkgrey">
     <img src="Executive Public Summary (3).png" alt="Time series of station and global annual temperature anomalies" width="900" style="border: 1px solid darkgrey">
     
     *Figure 1: Geospatial heatmaps of climate stances in the USA following political events. (A) Heatmaps represent the believer stance proportion across states before, one week after, and two weeks after Bernie Sanders’s press conference on climate (Dec 5–Dec 28, 2015). (B) Heatmaps represent the denier stance proportion across       states before, one week after, and two weeks after Donald Trump’s withdrawal from the Paris Agreement (May 25–June 17, 2017); (made in Python).*
 
-Donald Trump's decision to withdraw from the Paris climate agreement can be seen to have a noticeable increase in climate denier stances, especially with consideration to already republican states. Meanwhile for Bernie Sanders, believer standpoints can be seen especially prominent in his running state of Vermont, as well as democratic and republican states.
-
-
-### Figure 1: Geospatial Heatmaps
-- (A) Heatmaps show the believer stance proportion across states before, one week after, and two weeks after Bernie Sanders’s press conference on climate (Dec 5–Dec 28, 2015).
-- (B) Heatmaps represent the denier stance proportion across states before, one week after, and two weeks after Donald Trump’s withdrawal from the Paris Agreement (May 25–June 17, 2017). *(Created using Python)*.
+  - **Sanders’s statements on the Paris Agreement**: Believer stances increased, especially in Vermont and other Democratic-leaning areas
+  - **Trump’s withdrawal from the Paris Agreement**: Demonstrated an increase in climate denier stances, particularly in Republican states
 
 ## Conclusion
 Stance and sentiment trends on Twitter across the 4 year period demonstrated that believer stances experienced an overall increase, while denier stances remained at a consistent level. Temperature anomalies were investigated and revealed that extreme deviations may amplify climate exchange belief. Influence from political figures also shapes public perception, increasing climate discourse on Twitter. Various factors, including political affiliation, affect the susceptibility of different demographics to climate change information. Efforts are also underway to develop multilingual, global datasets to better represent underrepresented regions and languages in climate discourse. 
