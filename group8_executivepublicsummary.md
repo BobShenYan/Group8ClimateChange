@@ -29,6 +29,7 @@ The second dataset provided a corpus of tweet messages which were depicted using
     
     *Figure 1: Geospatial plots of climate stances in the USA following political events. (A) Represents the believer stance proportion across states before, one week after, and two weeks after Bernie Sanders’ campaign press release (Dec 5 – Dec 28, 2015). (B) Represents the denier stance proportion across       states before, one week after, and two weeks after Donald Trump’s withdrawal from the Paris Agreement (May 25 – June 17, 2017); (created in Python).*
 
+#### Outcomes
   - **Sanders’ statements on the Paris Agreement**: Believer stances increased, especially in Vermont and other Democratic-leaning areas
   - **Trump’s withdrawal from the Paris Agreement**: Demonstrated an increase in climate denier stances, particularly in Republican states
 
